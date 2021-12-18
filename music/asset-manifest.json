@@ -1,0 +1,28 @@
+{
+  "files": {
+    "main.css": "/static/css/main.c31a0c99.chunk.css",
+    "main.js": "/static/js/main.6a24b69c.chunk.js",
+    "main.js.map": "/static/js/main.6a24b69c.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.9b5130b9.js",
+    "runtime-main.js.map": "/static/js/runtime-main.9b5130b9.js.map",
+    "static/css/2.4659568d.chunk.css": "/static/css/2.4659568d.chunk.css",
+    "static/js/2.4ba5231f.chunk.js": "/static/js/2.4ba5231f.chunk.js",
+    "static/js/2.4ba5231f.chunk.js.map": "/static/js/2.4ba5231f.chunk.js.map",
+    "index.html": "/index.html",
+    "static/css/2.4659568d.chunk.css.map": "/static/css/2.4659568d.chunk.css.map",
+    "static/css/main.c31a0c99.chunk.css.map": "/static/css/main.c31a0c99.chunk.css.map",
+    "static/js/2.4ba5231f.chunk.js.LICENSE.txt": "/static/js/2.4ba5231f.chunk.js.LICENSE.txt",
+    "static/media/audio.b71bc026.m4a": "/static/media/audio.b71bc026.m4a",
+    "static/media/facebook.5e1cb4b8.svg": "/static/media/facebook.5e1cb4b8.svg",
+    "static/media/instagram.8ff7ce92.svg": "/static/media/instagram.8ff7ce92.svg",
+    "static/media/twitter.fe06d572.svg": "/static/media/twitter.fe06d572.svg",
+    "static/media/youtube.6806408a.svg": "/static/media/youtube.6806408a.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.9b5130b9.js",
+    "static/css/2.4659568d.chunk.css",
+    "static/js/2.4ba5231f.chunk.js",
+    "static/css/main.c31a0c99.chunk.css",
+    "static/js/main.6a24b69c.chunk.js"
+  ]
+}
